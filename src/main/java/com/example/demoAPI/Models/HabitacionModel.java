@@ -12,7 +12,7 @@ public class HabitacionModel {
     protected String tipo;
     protected int tarifaPorNoche;
 
-    // Constructor
+    // Constructor Model
     public HabitacionModel(int numero, String tipo, int tarifaPorNoche) {
         this.numero = numero;
         this.tipo = tipo;
