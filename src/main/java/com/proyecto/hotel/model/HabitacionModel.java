@@ -1,4 +1,4 @@
-package com.example.demoAPI.Models;
+package com.proyecto.hotel.model;
 //import javax.persistence.*;
 
 //@Table(name = "Habitacion")
