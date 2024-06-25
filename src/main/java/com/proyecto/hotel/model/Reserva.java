@@ -5,5 +5,5 @@ public class Reserva {
     protected Huesped huesped;
     protected Habitacion habitacion;
     protected FechaEstadia fechaEstadia;
-    protected TarifaEstadia totalEstadia;
+    protected TarifaEstadia Estadia;
 }
